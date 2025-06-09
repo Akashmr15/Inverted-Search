@@ -32,11 +32,14 @@ Once the Indexing is over we have the Querying or Searching. The text to be sear
 **Operations:**
 
 1) ```Create Database```
+   
    ![Screenshot (39)](https://github.com/user-attachments/assets/8dc0b1d0-fb06-426f-8167-294fdfdfb52d)
 2) ```Display Database```
+   
    ![Screenshot (40)](https://github.com/user-attachments/assets/35f58dfb-379b-4881-98f4-aee9117246cb)
 3) ```Search Database```
-![Screenshot (41)](https://github.com/user-attachments/assets/eaeb99db-3ef9-4593-99ff-30062cf30f96)
+   
+   ![Screenshot (41)](https://github.com/user-attachments/assets/eaeb99db-3ef9-4593-99ff-30062cf30f96)
 
 4) ```Update Database```
 5) ```Save Database```
